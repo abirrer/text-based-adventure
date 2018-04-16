@@ -1,19 +1,29 @@
-//we're creating an engine and then a script that can take the engine or any engine.
+# Connect Four Game
 
-script or story looks like this:
+### Overview
 
-Steps
-    1. ask the q
-    2. When answer is received:
-        if user answered one of the acceptable answers,
-            if there is a an object for the answer, then ask it (i.e. pass it to the function that asks the questions).
-            if there is a string for the answer, show string and end game. if type of answer is object then ask, if type of answer is string, then just so string.
-        if the user gives an invalid answer(like besides yes or no), if there is no property in the answers object whose name is the text the user typed, then scold the user and ask the same question again.
+<p>A 1 day project to create an interactive command line text-based adventure game. Currently, the game is only a few questions long, but additional story lines and questions can be built out using current framework.</p>
 
-var obj = { funky: 'chicken', disco: 'duck' }
+### Website
 
-Object.keys(obj) ==> pulls out all the keys/answers
-Object.getOwnPropertyNames(obj) // similar but has some hidden properties like length.
+<p>You can download repo documents and launch the file (node + filename ) in your command line.</p>
 
+### Technologies Used
 
-//chalk is not yet included, need to install chalk.
+<p>Javascript, Node.js (including readline and chalk modules).</p>
+
+### Key Features
+
+<p>When started, the scene is set and the player gets asked a series of questions which he can respond to.</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/26822768/28040447-2386e632-65c6-11e7-8cc7-b0302a3edc2f.gif"  width="800"/>
+</p>
+
+<p>If the player does not submit an acceptable answer, the game responds to correct course.</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/26822768/28040447-2386e632-65c6-11e7-8cc7-b0302a3edc2f.gif"  width="800"/>
+</p>
+
+### Future Features
+
+<p>Build out story line.</p>
