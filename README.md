@@ -6,7 +6,7 @@
 
 ### Website
 
-<p>You can download repo documents and launch the file (node + filename ) in your command line.</p>
+<p>You can download repo documents and launch the file (node + filename) in your command line.</p>
 
 ### Technologies Used
 
