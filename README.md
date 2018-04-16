@@ -16,12 +16,12 @@
 
 <p>When started, the scene is set and the player gets asked a series of questions which he can respond to.</p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/26822768/28040447-2386e632-65c6-11e7-8cc7-b0302a3edc2f.gif"  width="800"/>
+<img src="https://user-images.githubusercontent.com/12107707/38812571-f79f8062-418c-11e8-8380-bfdf973d8b54.gif"  width="800"/>
 </p>
 
 <p>If the player does not submit an acceptable answer, the game responds to correct course.</p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/26822768/28040447-2386e632-65c6-11e7-8cc7-b0302a3edc2f.gif"  width="800"/>
+<img src="https://user-images.githubusercontent.com/12107707/38812604-0c92b606-418d-11e8-9126-7c379749bb13.gif"  width="800"/>
 </p>
 
 ### Future Features
